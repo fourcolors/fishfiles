@@ -1,4 +1,6 @@
-# Rico's fish files
+# Sterling's fish files
+
+This is a fork of rstacruz/fishfiles with my personal touches
 
 ![](https://raw.githubusercontent.com/rstacruz/fishfiles/gh-pages/screenshot.png)
 
